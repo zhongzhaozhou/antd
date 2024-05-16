@@ -15,7 +15,7 @@ const Page = () => {
   ];
   const config = {
     data,
-    height: 200,
+    height: 500,
     xField: 'year',
     yField: 'value',
     point: {
